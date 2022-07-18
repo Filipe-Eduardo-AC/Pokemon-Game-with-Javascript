@@ -1,0 +1,13 @@
+th,
+td {
+  padding: 15px;
+}
+
+.btn {
+  display: block;
+  width: 100%;
+}
+
+p {
+  font-family: "Source Sans Pro", sans-serif;
+}
